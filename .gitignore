@@ -1,0 +1,15 @@
+# Build output
+target/
+
+# Local runtime data (created on first launch: data file + uploaded product images)
+data/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+out/
+
+# OS files
+Thumbs.db
+.DS_Store
